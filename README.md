@@ -3,9 +3,6 @@ Remaking Super Mario 64 with Unity Engine to teach the Game Dev Club how to make
 
 <div align = "center">
 
-## Final result:
-![MarioDemo](https://user-images.githubusercontent.com/38381290/224466026-6d6c6e7c-d55f-4fbc-a33f-d2c1e121bdb3.gif)
-
 ## Modeling:
 ![ModelingDemo](https://user-images.githubusercontent.com/38381290/224466029-d61a066b-79d0-4a35-923a-e9bd4e667b64.gif)
 
@@ -23,4 +20,8 @@ Remaking Super Mario 64 with Unity Engine to teach the Game Dev Club how to make
 
 ## Programming
 ![ProgrammingDemo](https://user-images.githubusercontent.com/38381290/224466030-5bfcfaee-24e9-4af5-8703-66724bac9b3d.gif)
+  
+  ## Final result:
+![MarioDemo](https://user-images.githubusercontent.com/38381290/224466026-6d6c6e7c-d55f-4fbc-a33f-d2c1e121bdb3.gif)
+  
 </div>
