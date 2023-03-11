@@ -6,7 +6,7 @@ Remaking Super Mario 64 with Unity Engine to teach the Game Dev Club how to make
 ## Modeling:
 ![ModelingDemo](https://user-images.githubusercontent.com/38381290/224466029-d61a066b-79d0-4a35-923a-e9bd4e667b64.gif)
 
-## Drawing
+## Painting
 ![DrawingDemo](https://user-images.githubusercontent.com/38381290/224466022-47006303-8183-478b-9d9b-1071412c0c6a.gif)
 
 ## Rigging
